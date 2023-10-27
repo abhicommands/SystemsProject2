@@ -1,8 +1,8 @@
 // File:	thread-worker.c
 
-// List all group member's name:
-// username of iLab:
-// iLab Server:
+// List all group member's name: Abhinav Acharya, Sai Manukonda
+// username of iLab: aa2372, skm70
+// iLab Server: ilab1.cs.rutgers.edu
 
 #include "thread-worker.h"
 
@@ -155,4 +155,3 @@ void print_app_stats(void) {
 // Feel free to add any other functions you need
 
 // YOUR CODE HERE
-
